@@ -1,0 +1,1 @@
+To contribute to the development of **Rusted Script** you can Report Bugs/Glitches, create pull requests and add features/fix bugs/typos, work on the Rusted Script [docs](https://github.com/Rusted-Script/Docs) or by just generally using Rusted Script.
