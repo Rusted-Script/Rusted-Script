@@ -1,3 +1,7 @@
   
 *.md linguist-detectable=true
 *.md linguist-documentation=false
+*.gitattributes linguist-detectable=true
+*.gitattributes linguist-documentation=false
+*.gitignore linguist-detectable=true
+*.gitignore linguist-documentation=false
