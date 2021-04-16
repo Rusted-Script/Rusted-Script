@@ -11,3 +11,6 @@ cd Rusted-Script
 cd src
 python shell.py
 ```
+
+##
+[Rusted Script Docs](https://github.com/Rusted-Script/Docs)
