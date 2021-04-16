@@ -1,3 +1,9 @@
+# Copyright (c) Rusted Studio
+# Licensed under APGL-3.0 license. Read LiCENSE.txt for more info
+#Developers:
+# CertifiedRice - Lead Developer
+# Rusted Studio - Development Studio
+
 from strings_with_arrows import *
 from token_types import *
 from class_error import *
