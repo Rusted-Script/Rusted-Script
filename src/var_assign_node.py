@@ -1,3 +1,9 @@
+# Copyright (c) Rusted Studio
+# Licensed under APGL-3.0 license. Read LiCENSE.txt for more info
+#Developers:
+# CertifiedRice - Lead Developer
+# Rusted Studio - Development Studio
+
 class varAssignNode:
     def __init__(self, var_name_tok, value_node):
         self.var_name_tok = var_name_tok
