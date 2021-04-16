@@ -1,3 +1,9 @@
+# Copyright (c) Rusted Studio
+# Licensed under APGL-3.0 license. Read LiCENSE.txt for more info
+#Developers:
+# CertifiedRice - Lead Developer
+# Rusted Studio - Development Studio
+
 TT_INT = 'INT'
 TT_FLOAT = 'FLOAT'
 TT_IDENTifIER = 'IDENTifIER'
