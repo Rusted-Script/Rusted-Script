@@ -1,3 +1,9 @@
+# Copyright (c) Rusted Studio
+# Licensed under APGL-3.0 license. Read LiCENSE.txt for more info
+#Developers:
+# CertifiedRice - Lead Developer
+# Rusted Studio - Development Studio
+
 def string_with_arrows(text, pos_start, pos_end):
     result = ''
 
