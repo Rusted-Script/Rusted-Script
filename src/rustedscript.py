@@ -500,9 +500,9 @@ class Interpreter:
 
 global_symbol_table = SymbolTable()
 global_symbol_table.set("null", Number(0))
-global_symbol_table.set("false", Number(0))
-global_symbol_table.set("true", Number(1))
-global_symbol_table.set("none", Number(0))
+global_symbol_table.set("false", Number("false"))
+global_symbol_table.set("true", Number("true"))
+global_symbol_table.set("none", Number("none"))
 
 
 def run(fn, text):
