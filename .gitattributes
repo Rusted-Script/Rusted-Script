@@ -1,3 +1,4 @@
 *.md linguist-detectable=true
 *.txt linguist-detectable=true
 *.md linguist-documentation=false
+*.js linguist-language=Python
