@@ -1,4 +1,4 @@
 *.md linguist-detectable=true
 *.txt linguist-detectable=true
 *.md linguist-documentation=false
-*.rusted linguist-language=Rust
+*.rusted linguist-language=Python
