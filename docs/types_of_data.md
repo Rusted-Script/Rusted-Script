@@ -1,17 +1,11 @@
-# Types of data
-There are 3 types of data in Rusted Script.
-- Numbers
-- Variables
+# Data types
+
+Rust Script has the following data types;
 - Boolean
+   - true
+   - false (none, null, 0)
+- Integer (Number)
+- String
+- Function
 
-# Boolean
-There are 4 types of Booleans.
-- true
-- false
-- null
-- none
-
-#
-Now null and none are pretty much the same thing, they both equal 0 or none.
-
-true and false are just True and False.
+All of these data types can be assiged to a variable, which they can later be used. Look at variables.md for more info on variables.
