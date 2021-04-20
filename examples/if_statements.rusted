@@ -1,4 +1,4 @@
-var bruh = True
+var bruh = true
 var x = 2 * 2
 
 if x == 3 then 123 elif x == 2 then x bruh else 321
