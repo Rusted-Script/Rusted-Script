@@ -2,3 +2,4 @@
 *.md linguist-documentation=false
 *.bat linguist-detectable=true
 *.bat linguist-documentation=false
+*.rusted linguist-language=Python
