@@ -4,4 +4,3 @@
 *.bat linguist-documentation=false
 *.sh linguist-detectable=true
 *.sh linguist-documentation=false
-*.rusted linguist-language=Python
