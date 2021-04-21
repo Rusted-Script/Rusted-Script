@@ -1,2 +1,4 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
+*.bat linguist-detectable=true
+*.bat linguist-documentation=false
