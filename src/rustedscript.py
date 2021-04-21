@@ -9,6 +9,7 @@ from token_types import *
 from class_error import *
 from expected_char_error import *
 from invalid_syntax_error import *
+from illegal_char_error import *
 from rterror import *
 from position import *
 from token import *
