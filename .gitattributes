@@ -1,4 +1,5 @@
 *.md linguist-detectable=true
+*.bat linguist-detectable=true
 *.txt linguist-detectable=true
 *.md linguist-documentation=false
 *.rusted linguist-language=Python
