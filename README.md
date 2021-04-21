@@ -1,7 +1,7 @@
 # Rusted-Script
 Rusted Script is an advanced programming language made by Rusted Studio.
 
--  Version 0.0.1(Pre-Alpha)
+-  Version 0.0.2(Pre-Alpha)
 
 
 ## Setup
@@ -21,7 +21,7 @@ $ python3 shell.py
 
 ### Rusted Script Interpreter
 
-The current version of the interpreter may have bugs, as it is still in Pre-Alpha (Version 0.0.1)! If you come accross any bugs, dont hesitate to open a issue.
+The current version of the interpreter may have bugs, as it is still in Pre-Alpha (Version 0.0.2)! If you come accross any bugs, dont hesitate to open a issue.
 
 First make a simple .rusted file, and then run the following;
 ```
