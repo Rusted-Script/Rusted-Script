@@ -1,2 +1,2 @@
 #!/bin/bash
-python src/shell.py
+python3 src/shell.py
