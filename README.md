@@ -1,4 +1,4 @@
-[!Open Source Love](https://github.com/Rusted-Script/Rusted-Script/blob/master/icon.png)
+[![Rusted Script](https://github.com/Rusted-Script/Rusted-Script/blob/master/icon.png)
 
 # Rusted-Script
 Rusted Script is an advanced programming language made by Rusted Studio.
