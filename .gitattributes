@@ -1,9 +1,0 @@
-*.md linguist-detectable=true
-*.md linguist-documentation=false
-*.rusted linguist-detectable=true
-*.rusted linguist-documentation=false
-*.rusted linguist-language=Python
-*.sh linguist-detectable=true
-*.sh linguist-documentation=false
-*.bat linguist-detectable=true
-*.bat linguist-documentation=false
