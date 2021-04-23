@@ -22,4 +22,6 @@ var i = 15
 
 ```
 
+## Explanation
 
+We included `secondary.rusted` in our `main.rusted` file, and that gives us access to **all** of the variables, functions, and classes of the `secondary.rusted`. In our case, this included the variable `i` from the `secondary.rusted` file. We outputed it to the screen, and its done!
