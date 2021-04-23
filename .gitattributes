@@ -1,3 +1,3 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-*.rusted linguist-language=Lua
+*.rusted linguist-language=Python
