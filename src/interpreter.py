@@ -3,6 +3,7 @@
 #Developers:
 # CertifiedRice - Lead Developer
 # Rusted Studio - Development Studio
+# Rusted Script Github Repository Contributors - Developers
 
 import sys 
 import rustedscript
