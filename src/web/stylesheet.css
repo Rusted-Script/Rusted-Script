@@ -1,1 +1,160 @@
+/* Backround colours */
 
+.bg-red {
+    background-color: red;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-aqua {
+    background-color: aqua;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-purple {
+    background-color: purple;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+/* Text Align*/
+
+.ta-left {
+    text-align: left;
+}
+
+.ta-center {
+    text-align: center;
+}
+
+.ta-right {
+    text-align: right;
+}
+
+/* Opacity */
+
+.op-00 {
+    opacity: 0;
+}
+
+.op-01 {
+    opacity: 0.1;
+}
+
+.op-02 {
+    opacity: 0.2;
+}
+
+.op-03 {
+    opacity: 0.3;
+}
+
+.op-04 {
+    opacity: 0.4;
+}
+
+.op-05 {
+    opacity: 0.5;
+}
+
+.op-06 {
+    opacity: 0.6;
+}
+
+.op-07 {
+    opacity: 0.7;
+}
+
+.op-08 {
+    opacity: 0.8;
+}
+
+.op-09 {
+    opacity: 0.9;
+}
+
+.op-10 {
+    opacity: 1;
+}
+
+/* On hover, become slightly transparent */
+
+.oh-00:hover {
+    opacity: 0.0;
+    transition: 400ms;
+}
+
+.oh-01:hover {
+    opacity: 0.1;
+    transition: 400ms;
+}
+
+.oh-02:hover {
+    opacity: 0.2;
+    transition: 400ms;
+}
+
+.oh-03:hover {
+    opacity: 0.3;
+    transition: 400ms;
+}
+
+.oh-04:hover {
+    opacity: 0.4;
+    transition: 400ms;
+}
+
+.oh-05:hover {
+    opacity: 0.5;
+    transition: 400ms;
+}
+
+.oh-06:hover {
+    opacity: 0.6;
+    transition: 400ms;
+}
+
+.oh-07:hover {
+    opacity: 0.7;
+    transition: 400ms;
+}
+
+.oh-08:hover {
+    opacity: 0.8;
+    transition: 400ms;
+}
+
+.oh-09:hover {
+    opacity: 0.9;
+    transition: 400ms;
+}
+
+.oh-10:hover {
+    opacity: 10;
+    transition: 400ms;
+}
+
+/* Text decoration */
+
+.td-bold {
+    text-decoration: bold;
+}
+
+.td-underline {
+    text-decoration: underline;
+}
+
+.td-none {
+    text-decoration: none;
+}
