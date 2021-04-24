@@ -7,6 +7,12 @@ Rusted Script is an advanced programming language made by Rusted Studio.
 -  [Version 0.0.2(Pre-Alpha)](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.2)
 -  [Version 0.0.1(Pre-Alpha)](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.1(Pre-Alpha))
 
+## Example of Rusted Script code 
+```
+var x = 5 
+if x == 5 * 1 then 123 elif x == 3 then 321 else 1234
+```
+
 ## Setup
 
 Setup development with **Rusted Script** on your computer.
