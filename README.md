@@ -4,8 +4,10 @@
 Rusted Script is an advanced programming language made by Rusted Studio.
 
 ## Versions:
--  [Version 0.0.2(Pre-Alpha)](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.2)
--  [Version 0.0.1(Pre-Alpha)](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.1(Pre-Alpha))
+| Release | Status | URL |
+| -------- | ------ | ----  
+| Version 0.0.1 | Outdated - Pre-Alpha - Stable| [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.1(Pre-Alpha)) |
+| Version 0.0.2 | Pre-Alpha - Stable | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/pre-alpha) |
 
 ## Setup
 
