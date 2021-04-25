@@ -9,8 +9,9 @@ Rusted Script is an advanced programming language made by Rusted Studio.
 
 ## Example of Rusted Script code 
 ```
-var x = 5 
-if x == 5 * 1 then 123 elif x == 3 then 321 else 1234
+# Rusted Script syntax
+var x = 1 + 1 * 3 / 2 ^ 3 - 2
+if x == 3 then 123 elif x == 0 then 321 else 12345
 ```
 
 ## Setup
