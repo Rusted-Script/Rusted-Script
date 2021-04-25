@@ -35,4 +35,4 @@ then /* User Payed */ else /* User didnt pay */
 Use scenarios of *if statements* are *endless*, these are just some examples.
 
 
-Go see other files in the docs or the [Examples](https://github.com/calvin-smith1/Rusted-Script/tree/master/examples) for other ways of using the math functions in Rusted Script.
+Go see other files in the docs or the [Examples](https://github.com/Rusted-Script/Rusted-Script/tree/master/examples) for other ways of using the math functions in Rusted Script.
