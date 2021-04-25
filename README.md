@@ -7,7 +7,7 @@ Rusted Script is an advanced programming language made by Rusted Studio.
 | Release | Status | URL |
 | -------- | ------ | ----  
 | Version 0.0.1 | Outdated - Pre-Alpha - Stable| [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.1(Pre-Alpha)) |
-| Version 0.0.2 | Pre-Alpha - Stable | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/pre-alpha) |
+| Version 0.0.2 | Pre-Alpha - Stable | [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.2) |
 | Version 0.0.3 | Pre-Alpha - Unstable | [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.3)
 
 ## Setup
@@ -48,4 +48,3 @@ If you see any bugs, dont hesitate to open a new *issue* on our [GitHub](https:/
 var x = 1 + 1 * 3 / 2 ^ 3 - 2
 if x == 3 then 123 elif x == 0 then 321 else 12345
 ```
-
