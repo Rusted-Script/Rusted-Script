@@ -21,3 +21,5 @@ var myvar = "hello"
 var myvar = "bye" // reassigned the variable "myvar" to "bye"
 // myvar is "bye"
 ```
+
+Go see other files in the docs or the [Examples](https://github.com/calvin-smith1/Rusted-Script/tree/master/examples) for other ways of using the math functions in Rusted Script.
