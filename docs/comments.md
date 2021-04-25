@@ -19,4 +19,4 @@ If you make a single line comment with `/* and */` the interpreter will throw an
 
 All of the above are valid ways to write comments in Rusted Script! 
 
-Go see other files in the docs or the [Examples](https://github.com/calvin-smith1/Rusted-Script/tree/master/examples) for other ways of using the math functions in Rusted Script.
+Go see other files in the docs or the [Examples](https://github.com/Rusted-Script/Rusted-Script/tree/master/examples) for other ways of using the math functions in Rusted Script.
