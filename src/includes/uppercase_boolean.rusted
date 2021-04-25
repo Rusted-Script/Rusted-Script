@@ -1,4 +1,0 @@
-var True = true
-var False = false
-var Null = null
-var None = none
