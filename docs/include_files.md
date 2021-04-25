@@ -26,4 +26,8 @@ var i = 15
 
 We included `secondary.rusted` in our `main.rusted` file, and that gives us access to **all** of the variables, functions, and classes of the `secondary.rusted`. In our case, this included the variable `i` from the `secondary.rusted` file. We outputed it to the screen, and its done!
 
-Go see other files in the docs or the [Examples](https://github.com/calvin-smith1/Rusted-Script/tree/master/examples) for other ways of using the math functions in Rusted Script.
+## Links
+
+- [Rusted Script Docs](https://github.com/Rusted-Script/Rusted-Script/tree/master/docs)
+
+- [Rusted Script Examples](https://github.com/Rusted-Script/Rusted-Script/tree/master/examples)
