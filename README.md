@@ -45,4 +45,3 @@ If you see any bugs, dont hesitate to open a new *issue* on our [GitHub](https:/
 var x = 1 + 1 * 3 / 2 ^ 3 - 2
 if x == 3 then 123 elif x == 0 then 321 else 12345
 ```
-
