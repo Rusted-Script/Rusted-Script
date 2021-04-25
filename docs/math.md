@@ -14,3 +14,5 @@ var x = 4 + 2 - 1 * 3 / 2 ^ 3
 # also;
 if x == 3 + 3 then 123 else 32
 ```
+
+Go see other files in the docs or the [Examples](https://github.com/calvin-smith1/Rusted-Script/tree/master/examples) for other ways of using the math functions in Rusted Script.
