@@ -1,1 +1,3 @@
+use("package_main.rusted")
+
 package = "github.com/rusted-script/rusted-script"
