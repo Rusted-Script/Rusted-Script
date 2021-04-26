@@ -1,0 +1,16 @@
+use("testing.rusted")
+
+var testing = true
+
+if testing == true then 123 elif ture == false then 321 else 1234 
+
+true
+false
+none
+null
+
+1 + 1
+2 * 2
+4 / 2 
+1 ^ 3
+10 - 5
