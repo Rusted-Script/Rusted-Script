@@ -1,3 +1,5 @@
+#results: passed, it works fine
+
 use("testing.rusted")
 
 var testing = true
