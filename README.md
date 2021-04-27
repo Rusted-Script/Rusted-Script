@@ -29,7 +29,7 @@ $ python3 shell.py
 
 ### Rusted Script Interpreter
 
-The current version of the interpreter may have bugs, as it is still in [Pre-Alpha (Version 0.0.2)](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.2)! If you come accross any bugs, dont hesitate to open a issue.
+The current version of the interpreter may have bugs, as it is still in [Pre-Alpha (Version 0.0.3)](hhttps://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.3)! If you come accross any bugs, dont hesitate to open a issue.
 
 First make a simple .rusted file, and then run the following;
 
