@@ -1,0 +1,5 @@
+var port = 5000
+
+var localhost = true 
+
+if localhost == true then localhost + port else 123
