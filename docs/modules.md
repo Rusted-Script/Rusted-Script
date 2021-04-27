@@ -3,9 +3,8 @@
 Modules are packages that are developed to help with certain tasks, and make advanced tasks easier to write with new functions in that module. This guide will show you how to use them.
 
 
-## How to use a Module
+# How to use a Module
 
-#
 
 ## Install The Module
 
@@ -22,9 +21,8 @@ use_module("test_module")
 This will include everythig from the `rusted_script/test_module/index.rusted` file.
 
 
-## How to develop a Module
+# How to develop a Module
 
-#
 
 ## Setup the basic structure
 
