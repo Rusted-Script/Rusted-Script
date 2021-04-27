@@ -1,4 +1,4 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
 *.yml linguist-detectable=true
-*.rusted linguist-language=Python
+*.rusted linguist-language=lua
