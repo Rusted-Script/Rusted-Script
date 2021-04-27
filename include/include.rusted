@@ -1,0 +1,3 @@
+use("test.rusted")
+
+if test == true then 123
