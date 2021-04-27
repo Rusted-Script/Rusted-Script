@@ -81,14 +81,62 @@ with open(sys.argv[1]) as rustedfile: # open the rusted file
 				else:
 					remove=1
 				if len(checkForComments(line))>1:
-					result, error = rustedscript.run('<stdin>', checkForComments(line)[0:len(line)-remove])
-					if error:
-						print(error.as_string())
-						print("\n---- \n FATAL: Process exited with non-zero exit code")
-						sys.exit(1)
-					elif result:
-						print(result)
-					cnt+=1
+					# check for module includes
+					if int(checkForComments(line).find('use_module("'))!=-1:
+						start = int(line.find('("'))
+						end = int(line.find('")'))
+						try:
+							moduleToInclude=open('../rusted_modules/'+line[start+2:end]+'/index.rusted', 'r')
+						except FileNotFoundError:
+							print("FATAL: File ../rusted_modules/{}/index.rusted not found.".format(line[start+2:end]))
+							sys.exit(1)
+						linesOfModuleToInclude=moduleToInclude.readlines()
+						for line_ in linesOfModuleToInclude:
+							if int( line_.find('use("') ) != -1:
+								start = int(line_.find('("'))
+								end = int(line_.find('")'))
+								try:
+									fileToInclude_ =open(line_[start+2:end], 'r')
+								except FileNotFoundError:
+									print("FATAL: File ../rusted_modules/{}/index.rusted not found.".format(line_[start+2:end]))
+									sys.exit(1)
+								for line__ in fileToInclude_.readlines():
+									if len(checkForComments(line__))>1:
+										if len(checkForComments(line))==1:
+											remove_=1
+										else:
+											remove_=2
+										result_, error_ = rustedscript.run('<stdin>', checkForComments(line)[0:len(line__)-remove_])
+										if error_:
+											print(error_.as_string())
+											print('\n There is a problem with the "{}" package.'.format(line[start+2:end]))
+											sys.exit(1)
+										elif result_:
+											print(result_)
+							elif int( line_.find('use("') ) == -1:
+								if len(checkForComments(line_))>1:
+									len_of_line=len(checkForComments(line_))
+									if len_of_line==1:
+										remove__=1
+									else:
+										remove__=2
+									result____, error____ = rustedscript.run('<stdin>', checkForComments(line_)[0:len(checkForComments(line_))-remove])
+									if error____:
+										print(error____.as_string())
+										print("\n---- \n FATAL: Process exited with non-zero exit code ||||||")
+										sys.exit(1)
+									elif result____:
+										print(result____)
+										
+					elif int( line.find('use_module') ) == -1:
+						result, error = rustedscript.run('<stdin>', checkForComments(line)[0:len(line)-remove])
+						if error:
+							print(error.as_string())
+							print("\n---- \n FATAL: Process exited with non-zero exit code")
+							sys.exit(1)
+						elif result:
+							print(result)
+						cnt+=1
 	print("\n---- \n SUCCESS: {} ran successfully".format(sys.argv[1]))
 
 
