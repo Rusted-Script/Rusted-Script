@@ -1,6 +1,4 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
 *.yml linguist-detectable=true
-*.sh linguist-detectable=true
-*.bat linguist-detectable=true
 *.rusted linguist-language=lua
