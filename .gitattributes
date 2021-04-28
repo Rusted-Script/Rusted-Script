@@ -4,3 +4,4 @@
 *.rusted linguist-language=lua
 *.sh linguist-language=lua
 *.bat linguist-language=lua
+*.txt linguist-language=lua
