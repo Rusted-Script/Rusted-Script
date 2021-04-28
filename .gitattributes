@@ -2,3 +2,5 @@
 *.md linguist-documentation=false
 *.yml linguist-detectable=true
 *.rusted linguist-language=lua
+*.sh linguist-language=lua
+*.bat linguist-language=lua
