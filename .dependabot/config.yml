@@ -1,1 +1,13 @@
-
+package_manager: yes
+directory: yes
+update_schedule: yes
+target_branch: no
+default_reviewers: no
+default_assignees: no
+default_labels:	no
+default_milestone:	no
+allowed_updates:	no
+ignored_updates:	no
+automerged_updates:	no
+version_requirement_updates:	no
+commit_message: no
