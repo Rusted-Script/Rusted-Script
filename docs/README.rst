@@ -20,7 +20,7 @@ data <https://github.com/Rusted-Script/Docs/blob/master/src/types_of_data.md>`__
 `comments <https://github.com/Rusted-Script/Rusted-Script/blob/master/docs/comments.rst>`__
 
 `include
-files <https://github.com/Rusted-Script/Docs/blob/master/src/include_files.md>`__
+files <https://github.com/Rusted-Script/Rusted-Script/blob/master/docs/include_files.rst`__
 
 `Modules <https://github.com/Rusted-Script/Docs/blob/master/src/modules.md>`__
 
