@@ -1,5 +1,7 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
+*.rst linguist-detectable=true
+*.rst linguist-documentation=false
 *.yml linguist-detectable=true
 *.rusted linguist-language=c
 *.sh linguist-language=c
