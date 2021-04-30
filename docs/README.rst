@@ -17,7 +17,7 @@ data <https://github.com/Rusted-Script/Docs/blob/master/src/types_of_data.md>`__
 
 `variables <https://github.com/Rusted-Script/Docs/blob/master/src/variables.md>`__
 
-`comments <https://github.com/Rusted-Script/Docs/blob/master/src/comments.md>`__
+`comments <https://github.com/Rusted-Script/Docs/blob/master/src/comments.rst>`__
 
 `include
 files <https://github.com/Rusted-Script/Docs/blob/master/src/include_files.md>`__
