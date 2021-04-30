@@ -8,7 +8,7 @@ Here you can learn Rusted Script and review it.
 `Setup <https://github.com/Rusted-Script/Docs/blob/master/src/setup.md>`__
 
 `If
-Statements <https://github.com/Rusted-Script/Docs/blob/master/src/if_statements.md>`__
+Statements <https://github.com/Rusted-Script/Rusted-Script/blob/master/docs/if_statements.rst>`__
 
 `math <https://github.com/Rusted-Script/Docs/blob/master/src/math.md>`__
 
