@@ -3,7 +3,12 @@
 [Discord server](https://discord.gg/xKv9VKHSr5)
 
 # Rusted-Script
-Rusted Script is an advanced programming language made by Rusted Studio.
+Rusted Script is an advanced programming language made by Rusted Studio. 
+
+
+- [Discord](https://discord.gg/xKv9VKHSr5)
+- [Website](https://rusted-script.github.io/)
+- [Docs](https://github.com/Rusted-Script/Rusted-Script/tree/master/docs#docs)
 
 ## Versions:
 | Release | Status | URL |
