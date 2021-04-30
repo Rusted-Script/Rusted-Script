@@ -1,4 +1,4 @@
-*.rst linguist-detectable=true
+*.rst linguist-language=c
 *.md linguist-detectable=true
 *.yml linguist-detectable=true
 *.rusted linguist-language=c
