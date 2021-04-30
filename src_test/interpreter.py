@@ -5,7 +5,7 @@
 # Rusted Studio - Development Studio
 # Rusted Script Github Repository Contributors - Developers
 
-import sys 
+import sys
 import rustedscript
 
 run_line=True
@@ -127,7 +127,6 @@ with open(sys.argv[1]) as rustedfile: # open the rusted file
 										sys.exit(1)
 									elif result____:
 										print(result____)
-										
 					elif int( line.find('use_module') ) == -1:
 						result, error = rustedscript.run('<stdin>', checkForComments(line)[0:len(line)-remove])
 						if error:
