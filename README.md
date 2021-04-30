@@ -1,5 +1,7 @@
 [![Rusted Script](https://github.com/Rusted-Script/Rusted-Script/blob/master/icon.png)
 
+[Discord server](https://discord.gg/xKv9VKHSr5)
+
 # Rusted-Script
 Rusted Script is an advanced programming language made by Rusted Studio.
 
