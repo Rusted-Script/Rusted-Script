@@ -1,7 +1,0 @@
-*.md linguist-detectable=true
-*.rst linguist-detectable=true
-*.yml linguist-detectable=true
-*.rusted linguist-language=c
-*.sh linguist-language=c
-*.bat linguist-language=c
-*.txt linguist-language=c
