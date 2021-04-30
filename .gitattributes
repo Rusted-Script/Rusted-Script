@@ -1,0 +1,3 @@
+*.rst linguist-detectable=true
+*.md linguist-detectable=true
+*.yml linguist-detectable=true
