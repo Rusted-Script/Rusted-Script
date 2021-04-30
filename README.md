@@ -33,7 +33,7 @@ The current version of the interpreter may have bugs, as it is still in [Pre-Alp
 
 First make a simple .rusted file, and then run the following;
 
-```
+```sh
 $ python3 src/interpreter.py #### Your file path here #### ../test.rusted
   # After that, the Rusted Script interpreter will run your code.
 ```
@@ -43,7 +43,7 @@ Docs for *Rusted Script* can be found [here](https://github.com/Rusted-Script/Do
 If you see any bugs, dont hesitate to open a new *issue* on our [GitHub](https://github.com/Rusted-Script/Rusted-Script)!
 
 ## Example of Rusted Script code 
-```
+```js
 # Rusted Script syntax
 var x = 1 + 1 * 3 / 2 ^ 3 - 2
 if x == 3 then 123 elif x == 0 then 321 else 12345
