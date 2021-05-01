@@ -1,0 +1,4 @@
+var test = 2 + 2 
+var also_test = 2 * 2 
+var no = false
+var yes = true 
