@@ -1,6 +1,7 @@
 *.rst linguist-language=c
 *.md linguist-detectable=true
 *.yml linguist-detectable=true
+*.json linguist-detectable=true
 *.rusted linguist-language=c
 *.bat linguist-language=c
 *.sh linguist-language=c
