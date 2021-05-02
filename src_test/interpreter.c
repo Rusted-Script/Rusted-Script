@@ -3,7 +3,6 @@
 #include <string.h>
 #define _GNU_SOURCE
 #define PY_SSIZE_T_CLEAN
-#include <Python.h>
 
 int main(void)
 {
