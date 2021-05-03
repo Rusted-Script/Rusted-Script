@@ -1,9 +1,7 @@
 Docs
 ====
 
-The Rusted Script programing language docs
-
-Here you can learn Rusted Script and review it.
+This is the documentation for Ruted Script. Learn how to program in it, and why you should use it.
 
 `Setup <https://github.com/Rusted-Script/Docs/blob/master/src/setup.md>`__
 
