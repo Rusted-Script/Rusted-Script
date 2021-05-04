@@ -6,3 +6,4 @@
 *.sh linguist-language=c++
 *.txt linguist-language=c++
 *.pyc linguist-language=python
+*.so linguist-language=c++
