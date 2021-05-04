@@ -5,5 +5,3 @@
 *.bat linguist-language=c++
 *.sh linguist-language=c++
 *.txt linguist-language=c++
-*.so linguist-language=c++
-*.pyc linguist-language=c++
