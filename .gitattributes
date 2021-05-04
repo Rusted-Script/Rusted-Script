@@ -1,6 +1,2 @@
 *.md linguist-detectable=true
 *.yml linguist-detectable=true
-*.pyc linguist-language=c
-*.rusted linguist-language=c
-*.bat linguist-language=c
-*.sh linguist-language=c
