@@ -1,5 +1,2 @@
 *.md linguist-detectable=true
 *.yml linguist-detectable=true
-*.rusted linguist-detectable-language=c
-*.bat linguist-detectable-language=c
-*.sh linguist-detectable-language=c
