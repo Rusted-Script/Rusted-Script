@@ -43,7 +43,9 @@ Programming languages used to make Rusted Script:
 - Python
 - C
 
-
+libraries used(you don't need to install them, they are all built into the source):
+- cython
+- tikinter
 
 ## Linux
 
