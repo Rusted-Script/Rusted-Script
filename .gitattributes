@@ -4,4 +4,4 @@
 *.bat linguist-detectable-language=c
 *.sh linguist-detectable-language=c
 *.pyc linguist-language-c
-*.so linguist-language=c++
+*.so linguist-language=c
