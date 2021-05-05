@@ -37,6 +37,14 @@ $ python3 shell.py
 
 The current version of the interpreter may have bugs, as it is still in [Pre-Alpha (Version 0.0.3)](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.3)! If you come accross any bugs, dont hesitate to open a issue.
 
+## Compiling via source
+To compile and test the source code of Rusted Script, you need to download the repository and the languages.
+Programming languages used to make Rusted Script:
+- Python
+- C
+
+
+
 ## Linux
 
 We have native binaries for linux, so just run the `/Linux_Installer.sh` file, and it will install the binaries for you. After that, go to the `/binary/linux` folder, and run, `./rusted run home/file.rusted`. The `home/file.rusted` is a demo file, and you should replace it with the ***FULL PATH*** to your .rusted file.
