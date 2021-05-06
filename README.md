@@ -14,7 +14,7 @@ Rusted Script is an advanced programming language made by Rusted Studio.
 | Version 0.0.1 | Outdated - Pre-Alpha - Stable| [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.1(Pre-Alpha)) |
 | Version 0.0.2 | Pre-Alpha - Stable | [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.2) |
 | Version 0.0.3 | Pre-Alpha - Unstable | [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.3) |
-| Version 0.0.4 Pre-Release | Alpha - Unstable | ...|
+| Version 0.0.4 Pre-Release | Alpha - Unstable | [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.4) |
 
 ## Setup
 
@@ -35,7 +35,7 @@ $ python3 shell.py
 
 ### Rusted Script Interpreter
 
-The current version of the interpreter may have bugs, as it is still in [Pre-Alpha (Version 0.0.3)](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.3)! If you come accross any bugs, dont hesitate to open a issue.
+The current version of the interpreter may have bugs, as it is still in [Alpha (Version 0.0.4)](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.4)! If you come accross any bugs, dont hesitate to open a issue.
 
 ## Linux
 
