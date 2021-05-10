@@ -1,10 +1,10 @@
-# Rusted-Script-Lang
+# Rusted-Script
 
 
 ## Description
 
 ### Rusted-Script
-Advance, Generic-Syntax programming language that currently allows for mathematical equations/Calculations and logic statements.
+Advance, Generic-Syntax programming language that currently allows for mathematical equations/Calculations and logic statements and more!
 
 # Versions
 | Release | Status | Link |
