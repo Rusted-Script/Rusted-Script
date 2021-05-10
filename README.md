@@ -49,6 +49,7 @@ Not available
 var x = 1 + 1 * 3 / 2 ^ 3 - 2
 if x == 3 then 123 elif x == 0 then 321 else 12345
 ```
+Find more in [Docs](https://github.com/Rusted-Script/Docs)
 
 
 ## Contact
