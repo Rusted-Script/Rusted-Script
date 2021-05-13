@@ -1,0 +1,22 @@
+# Copyright (c) Rusted Studio
+# Licensed under APGL-3.0 license. Read LiCENSE.txt for more info
+#Developers:
+# CertifiedRice - Lead Developer
+# Rusted Studio - Development Studio
+
+class RTResult:
+    def __init__(self):
+        self.value = None
+        self.error = None
+
+    def register(self, res):
+        if res.error: self.error = res.error
+        return res.value
+
+    def success(self, value):
+        self.value = value
+        return self
+
+    def failure(self, error):
+        self.error = error
+        return self
