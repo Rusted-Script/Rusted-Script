@@ -1,0 +1,8 @@
+// There is an issue where Rusted Script uses the GPU.
+// I have ran some test and here are the results
+
+// Results:
+// GPU used: 7%
+//CPU used: 62%
+
+12097432 * 324987324 ^ 774932309 / 2 ^ 8979384234 + 930284932 - 9 + 87594
