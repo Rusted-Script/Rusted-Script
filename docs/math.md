@@ -5,7 +5,7 @@ You can use standard math symobls to complete equations in Rusted Script, such a
 - Multiply(*)
 - Power(^)
 - and Divide(/)
-
+- if more or less(< or >)
 
 ## Usage
 Usage of math in *Rusted Script*; 
