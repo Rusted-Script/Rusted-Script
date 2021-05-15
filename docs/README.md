@@ -22,6 +22,8 @@ Here you can learn Rusted Script and review it.
 
 [Modules](https://github.com/Rusted-Script/Docs/blob/master/src/modules.md)
 
+[Data](https://github.com/Rusted-Script/Rusted-Script/blob/master/docs/data.md)
+
 ##
 
 When I release new updates I will also update the Rusted Script docs.
