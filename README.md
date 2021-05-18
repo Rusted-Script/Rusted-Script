@@ -13,6 +13,7 @@ Advance, Generic-Syntax programming language that currently allows for mathemati
 | Version 0.0.2 | Pre-Alpha - Stable | [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.2) |
 | Version 0.0.3 | Pre-Alpha - Unstable | [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.3) |
 | Version 0.0.4 Pre-Release | Alpha - Unstable | [here](https://github.com/Rusted-Script/Rusted-Script/releases/tag/0.0.4) |
+| Version 0.0.5 | coming soon... |
 
 # Setup
 ### Description
