@@ -7,7 +7,7 @@ get * from testing;
 
 ```py
 #sql
-SELECT * from testing;;;
+SELECT * from testing;
 ```
 
 ##
